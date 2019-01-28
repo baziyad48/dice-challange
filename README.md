@@ -1,1 +1,1 @@
-# dice-challange
+# dice-challenge
